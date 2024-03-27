@@ -2,7 +2,7 @@
 <br />
 and I am a Unity & C# junior developer.</h1>
 
-<p><img src = "github-header-image.jpg"></p>
+<p><img src = "    github-header-image.jpg"></p>
 <hr>
 <p>For now, you can check out some of my projects:</p>
 <ul>
