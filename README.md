@@ -1,9 +1,10 @@
-<h1 align="center"> Hi there 👋, my name is <em>Dmitry</em>
+<h1 align="center"> Hi 👋, my name is <em> Dmitry</em>
 <br />
 and I am a Unity & C# junior developer.</h1>
-
+<div align = "center">
 <p><img src = "github-header-image.jpg"></p>
 <hr>
+<div align = "left">
 <p>For now, you can check out some of my projects:</p>
 <ul>
 <li><a href = "https://github.com/marinin97/mega-shot">mega-shot</a></li>
