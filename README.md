@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, my name is <em>Dmitry</em>
+<h1 align="center"> Hi 👋, my name is <em> Dmitry</em>
 <br />
 and I am a Unity & C# junior developer.</h1>
 
